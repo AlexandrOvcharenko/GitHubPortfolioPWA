@@ -1,4 +1,3 @@
-# vue-example-ch2-github-app
 
 ## Project setup
 ```
